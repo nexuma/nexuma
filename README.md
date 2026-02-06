@@ -2,28 +2,23 @@
 ### Computing Science & Business Management @ University of Glasgow
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/jonasleipner)
-[![Certifications](https://img.shields.io/badge/Scrum-PSM%20I%20|%20PSPO%20I%20|%20PSD%20I-green?style=flat-square)](https://www.scrum.org/)
+[![Certifications](https://img.shields.io/badge/Scrum-PSM%20I%20|%20PSPO%20I%20|%20PSD%20I-red?style=flat-square)](https://www.scrum.org/)
 
-I am a Swiss national and a 3rd-year Joint Honours student driven by the intersection of **High-Performance Engineering** and **Agile Product Strategy**. My work focuses on building stable, scalable foundations—whether that’s low-level C backends or secure, distributed infrastructure.
+I am a Swiss national and a 3rd-year Joint Honours student driven by the intersection of **High-Performance Engineering** and **Agile Product Strategy**. My work focuses on building stable, scalable foundations, whether that’s low-level C backends or secure, distributed infrastructure.
 
 ---
 
 ### 🚀 Featured Projects
 
-#### [VNA Data Acquisition System](https://github.com/nexuma)
+#### [VNA Data Acquisition System](https://github.com/Jstephenson808/dist_nano_vna_project)
 * **The Tech:** C (Backend), Python (GUI), Hardware Synchronisation.
 * **The Goal:** Co-engineered a high-speed system to synchronise and collect data from multiple Vector Analysers for research applications.
 * **Key Achievement:** Optimised C backend for maximum hardware throughput and real-time data integrity.
 
-#### [Personal Homelab & Infrastructure](https://github.com/lordmitrii)
+#### Personal Homelab & Infrastructure
 * **The Tech:** Linux, Docker, Traefik, Authelia (SSO/LDAP).
 * **The Goal:** A secure, distributed server environment hosting internal tools and services.
 * **Key Achievement:** Implemented a robust identity management flow and reverse proxy architecture to ensure internal service security and high availability.
-
-#### [NinjaTap](https://github.com/nexuma/NinjaTap)
-* **The Tech:** C# / .NET.
-* **The Goal:** A low-latency Windows input utility designed for real-time event handling.
-
 ---
 
 ### 🛠️ Technical Toolkit
@@ -33,7 +28,7 @@ I am a Swiss national and a 3rd-year Joint Honours student driven by the interse
 | **Languages** | C, Python, Java, C#, Bash, SQL |
 | **Infrastructure** | Linux (Daily Driver), Docker, Traefik, LDAP/SSO |
 | **Data & Maths** | Linear Algebra, Matrices (Maths 2B), Data Fundamentals |
-| **Frameworks** | .NET Core, Django, Scrum (Certified Master/PO/Dev) |
+| **Frameworks** | Django, Scrum (Certified Master/PO/Dev) |
 
 ---
 
@@ -45,8 +40,8 @@ I am a Swiss national and a 3rd-year Joint Honours student driven by the interse
 ---
 
 ### 📊 GitHub Stats
-![Jonas's GitHub stats](https://github-readme-stats.vercel.app/api?username=lordmitrii&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lordmitrii&layout=compact&theme=tokyonight)
+![Jonas's GitHub stats](https://github-readme-stats.vercel.app/api?username=nexuma&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nexuma&layout=compact&theme=tokyonight)
 
 ---
 
