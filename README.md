@@ -39,10 +39,4 @@ I am a Swiss national and a 3rd-year Joint Honours student driven by the interse
 
 ---
 
-### 📊 GitHub Stats
-![Jonas's GitHub stats](https://github-readme-stats.vercel.app/api?username=nexuma&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nexuma&layout=compact&theme=tokyonight)
-
----
-
 📫 **How to reach me:** [jonas@leipner.ch](mailto:jonas@leipner.ch)
