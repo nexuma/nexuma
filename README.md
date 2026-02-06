@@ -1,7 +1,7 @@
 # Hi, I'm Jonas Leipner 👋 
 ### Computing Science & Business Management @ University of Glasgow
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/jonasleipner)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/jonas-leipner)
 [![Certifications](https://img.shields.io/badge/Scrum-PSM%20I%20|%20PSPO%20I%20|%20PSD%20I-red?style=flat-square)](https://www.scrum.org/)
 
 I am a Swiss national and a 3rd-year Joint Honours student driven by the intersection of **High-Performance Engineering** and **Agile Product Strategy**. My experience focuses on building stable, scalable foundations, whether that’s low-level C backends or secure, distributed infrastructure.
